@@ -1,0 +1,4714 @@
+{
+  "vnCode": "01",
+  "code": "HN",
+  "name": "Hà Nội",
+  "ward": [
+    {
+      "vnCode": "09877",
+      "name": "An Khánh",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09892",
+          "name": "Đông La",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09874",
+          "name": "Song Phương",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09880",
+          "name": "An Thượng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09883",
+          "name": "Vân Côn",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09889",
+          "name": "La Phù",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09877",
+          "name": "An Khánh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09886",
+          "name": "Dương Nội",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00292",
+      "name": "Bạch Mai",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00292",
+          "name": "Bạch Mai",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00289",
+          "name": "Quỳnh Mai",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00277",
+          "name": "Bách Khoa",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00256",
+          "name": "Lê Đại Hành",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00232",
+          "name": "Phương Mai",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00298",
+          "name": "Trương Định",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00271",
+          "name": "Thanh Nhàn",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00280",
+          "name": "Đồng Tâm",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00295",
+          "name": "Minh Khai",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00004",
+      "name": "Ba Đình",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00013",
+          "name": "Quán Thánh",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00004",
+          "name": "Trúc Bạch",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00073",
+          "name": "Cửa Nam",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00019",
+          "name": "Điện Biên",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00022",
+          "name": "Đội Cấn",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00028",
+          "name": "Kim Mã",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00016",
+          "name": "Ngọc Hà",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00055",
+          "name": "Cửa Đông",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00040",
+          "name": "Đồng Xuân",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00112",
+          "name": "Thụy Khuê",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "09676",
+      "name": "Bất Bạt",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09670",
+          "name": "Tòng Bạt",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09676",
+          "name": "Sơn Đà",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09691",
+          "name": "Thuần Mỹ",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09673",
+          "name": "Cẩm Lĩnh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09700",
+          "name": "Minh Quang",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00577",
+      "name": "Bát Tràng",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "00589",
+          "name": "Văn Đức",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00583",
+          "name": "Bát Tràng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00148",
+          "name": "Thạch Bàn",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00154",
+          "name": "Cự Khối",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00565",
+          "name": "Trâu Quỳ",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "00577",
+          "name": "Đa Tốn",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "09700",
+      "name": "Ba Vì",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09703",
+          "name": "Ba Vì",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09712",
+          "name": "Khánh Thượng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09700",
+          "name": "Minh Quang",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "10126",
+      "name": "Bình Minh",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10126",
+          "name": "Bích Hòa",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10132",
+          "name": "Cao Viên",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10141",
+          "name": "Thanh Cao",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10135",
+          "name": "Bình Minh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10063",
+          "name": "Lam Điền",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10120",
+          "name": "Cự Khê",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09571",
+          "name": "Phú Lương",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00118",
+      "name": "Bồ Đề",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00133",
+          "name": "Ngọc Lâm",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00115",
+          "name": "Thượng Thanh",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00124",
+          "name": "Đức Giang",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00130",
+          "name": "Gia Thụy",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00139",
+          "name": "Bồ Đề",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00151",
+          "name": "Phúc Đồng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00118",
+          "name": "Ngọc Thụy",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00145",
+          "name": "Long Biên",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00166",
+      "name": "Cầu Giấy",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00167",
+          "name": "Dịch Vọng Hậu",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00169",
+          "name": "Quan Hoa",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00172",
+          "name": "Yên Hoà",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00625",
+          "name": "Mỹ Đình 1",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00626",
+          "name": "Mỹ Đình 2",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00166",
+          "name": "Dịch Vọng",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "10237",
+      "name": "Chương Dương",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10219",
+          "name": "Tự Nhiên",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10237",
+          "name": "Chương Dương",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10243",
+          "name": "Lê Lợi",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10246",
+          "name": "Thắng Lợi",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10258",
+          "name": "Tô Hiệu",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10264",
+          "name": "Vạn Điểm",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "10015",
+      "name": "Chương Mỹ",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "10021",
+          "name": "Phụng Châu",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10024",
+          "name": "Tiên Phương",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10057",
+          "name": "Thụy Hương",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10054",
+          "name": "Đại Yên",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10042",
+          "name": "Ngọc Hòa",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10015",
+          "name": "Chúc Sơn",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "10123",
+          "name": "Biên Giang",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "10117",
+          "name": "Đồng Mai",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "10330",
+      "name": "Chuyên Mỹ",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10315",
+          "name": "Tân Dân",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10321",
+          "name": "Chuyên Mỹ",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10330",
+          "name": "Vân Từ",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10339",
+          "name": "Phú Yên",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10348",
+          "name": "Châu Can",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "09634",
+      "name": "Cổ Đô",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09628",
+          "name": "Cổ Đô",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09625",
+          "name": "Phú Cường",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09646",
+          "name": "Phú Phương",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09634",
+          "name": "Vạn Thắng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09643",
+          "name": "Phú Đông",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09640",
+          "name": "Phong Vân",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00082",
+      "name": "Cửa Nam",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00082",
+          "name": "Trần Hưng Đạo",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00088",
+          "name": "Hàng Bài",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00085",
+          "name": "Phan Chu Trinh",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00073",
+          "name": "Cửa Nam",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00241",
+          "name": "Nguyễn Du",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00247",
+          "name": "Phạm Đình Hổ",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00076",
+          "name": "Hàng Bông",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00070",
+          "name": "Hàng Trống",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00079",
+          "name": "Tràng Tiền",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00637",
+      "name": "Đại Mỗ",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00343",
+          "name": "Nhân Chính",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00631",
+          "name": "Mễ Trì",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00632",
+          "name": "Phú Đô",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09541",
+          "name": "Mộ Lao",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00175",
+          "name": "Trung Hoà",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00634",
+          "name": "Đại Mỗ",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00637",
+          "name": "Trung Văn",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09886",
+          "name": "Dương Nội",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00664",
+      "name": "Đại Thanh",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "00649",
+          "name": "Tả Thanh Oai",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00652",
+          "name": "Hữu Hoà",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00655",
+          "name": "Tam Hiệp",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09565",
+          "name": "Kiến Hưng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00640",
+          "name": "Văn Điển",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "00664",
+          "name": "Vĩnh Quỳnh",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "10342",
+      "name": "Đại Xuyên",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10336",
+          "name": "Đại Xuyên",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10342",
+          "name": "Bạch Hạ",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10351",
+          "name": "Minh Tân",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10345",
+          "name": "Quang Lãng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10333",
+          "name": "Tri Thủy",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10324",
+          "name": "Khai Thái",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10327",
+          "name": "Phúc Tiến",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "10180",
+      "name": "Dân Hòa",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10174",
+          "name": "Cao Dương",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10165",
+          "name": "Tân Ước",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10171",
+          "name": "Liên Châu",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10168",
+          "name": "Dân Hòa",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10180",
+          "name": "Hồng Dương",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "09784",
+      "name": "Đan Phượng",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09784",
+          "name": "Phùng",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "09814",
+          "name": "Thượng Mỗ",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09823",
+          "name": "Đan Phượng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09829",
+          "name": "Song Phượng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09826",
+          "name": "Đồng Tháp",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00430",
+      "name": "Đa Phúc",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "00394",
+          "name": "Tân Hưng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00403",
+          "name": "Bắc Phú",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00421",
+          "name": "Việt Long",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00424",
+          "name": "Xuân Giang",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00439",
+          "name": "Kim Lũ",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00451",
+          "name": "Xuân Thu",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00430",
+          "name": "Đức Hoà",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00316",
+      "name": "Định Công",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00646",
+          "name": "Thanh Liệt",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00307",
+          "name": "Định Công",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00325",
+          "name": "Giáp Bát",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00316",
+          "name": "Đại Kim",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00331",
+          "name": "Thịnh Liệt",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00643",
+          "name": "Tân Triều",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "09616",
+      "name": "Đoài Phương",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09610",
+          "name": "Kim Sơn",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09613",
+          "name": "Sơn Đông",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09616",
+          "name": "Cổ Đông",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00454",
+      "name": "Đông Anh",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "00505",
+          "name": "Cổ Loa",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00523",
+          "name": "Đông Hội",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00520",
+          "name": "Mai Lâm",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00472",
+          "name": "Tiên Dương",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00478",
+          "name": "Uy Nỗ",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00484",
+          "name": "Liên Hà",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00487",
+          "name": "Việt Hùng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00496",
+          "name": "Dục Tú",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00502",
+          "name": "Vĩnh Ngọc",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00511",
+          "name": "Xuân Canh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00517",
+          "name": "Tàm Xá",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00454",
+          "name": "Đông Anh",
+          "pre": "Thị trấn"
+        }
+      ]
+    },
+    {
+      "vnCode": "00235",
+      "name": "Đống Đa",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00235",
+          "name": "Ngã Tư Sở",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00208",
+          "name": "Nam Đồng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00199",
+          "name": "Láng Hạ",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00217",
+          "name": "Trung Liệt",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00190",
+          "name": "Ô Chợ Dừa",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00214",
+          "name": "Quang Trung",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00602",
+      "name": "Đông Ngạc",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00602",
+          "name": "Đức Thắng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00601",
+          "name": "Đông Ngạc",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00604",
+          "name": "Thụy Phương",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00610",
+          "name": "Xuân Đỉnh",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00617",
+          "name": "Cổ Nhuế 2",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00613",
+          "name": "Minh Khai",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "09856",
+      "name": "Dương Hòa",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09838",
+          "name": "Minh Khai",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09841",
+          "name": "Dương Liễu",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09850",
+          "name": "Cát Quế",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09856",
+          "name": "Yên Sở",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09865",
+          "name": "Đắc Sở",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "09886",
+      "name": "Dương Nội",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "09889",
+          "name": "La Phù",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09551",
+          "name": "La Khê",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00634",
+          "name": "Đại Mỗ",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09552",
+          "name": "Phú La",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09562",
+          "name": "Yên Nghĩa",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09886",
+          "name": "Dương Nội",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00565",
+      "name": "Gia Lâm",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "00571",
+          "name": "Dương Xá",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00580",
+          "name": "Kiêu Kỵ",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00553",
+          "name": "Cổ Bi",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00583",
+          "name": "Bát Tràng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00148",
+          "name": "Thạch Bàn",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00562",
+          "name": "Kim Sơn",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00565",
+          "name": "Trâu Quỳ",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "00577",
+          "name": "Đa Tốn",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00025",
+      "name": "Giảng Võ",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00031",
+          "name": "Giảng Võ",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00178",
+          "name": "Cát Linh",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00199",
+          "name": "Láng Hạ",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00025",
+          "name": "Ngọc Khánh",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00034",
+          "name": "Thành Công",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00028",
+          "name": "Kim Mã",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00007",
+          "name": "Cống Vị",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "09982",
+      "name": "Hạ Bằng",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09991",
+          "name": "Cần Kiệm",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10012",
+          "name": "Đồng Trúc",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09922",
+          "name": "Phú Cát",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10000",
+          "name": "Tân Xã",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10009",
+          "name": "Hạ Bằng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09982",
+          "name": "Bình Yên",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "09556",
+      "name": "Hà Đông",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "09544",
+          "name": "Vạn Phúc",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09553",
+          "name": "Phúc La",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09538",
+          "name": "Nguyễn Trãi",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09541",
+          "name": "Mộ Lao",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09542",
+          "name": "Văn Quán",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09551",
+          "name": "La Khê",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00643",
+          "name": "Tân Triều",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09556",
+          "name": "Hà Cầu",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00256",
+      "name": "Hai Bà Trưng",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00259",
+          "name": "Đồng Nhân",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00262",
+          "name": "Phố Huế",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00256",
+          "name": "Lê Đại Hành",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00241",
+          "name": "Nguyễn Du",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00271",
+          "name": "Thanh Nhàn",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00247",
+          "name": "Phạm Đình Hổ",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00244",
+          "name": "Bạch Đằng",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "09772",
+      "name": "Hát Môn",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09751",
+          "name": "Hát Môn",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09757",
+          "name": "Thanh Đa",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09766",
+          "name": "Ngọc Tảo",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09772",
+          "name": "Tam Thuấn",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09775",
+          "name": "Tam Hiệp",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09778",
+          "name": "Hiệp Thuận",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09781",
+          "name": "Liên Hiệp",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "09832",
+      "name": "Hoài Đức",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09832",
+          "name": "Trạm Trôi",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "09844",
+          "name": "Di Trạch",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09847",
+          "name": "Đức Giang",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09835",
+          "name": "Đức Thượng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09820",
+          "name": "Tân Lập",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09853",
+          "name": "Kim Chung",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00607",
+          "name": "Tây Tựu",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "09988",
+      "name": "Hòa Lạc",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09616",
+          "name": "Cổ Đông",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "04936",
+          "name": "Tiến Xuân",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10000",
+          "name": "Tân Xã",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10009",
+          "name": "Hạ Bằng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09982",
+          "name": "Bình Yên",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09988",
+          "name": "Thạch Hoà",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00337",
+      "name": "Hoàng Liệt",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00646",
+          "name": "Thanh Liệt",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00655",
+          "name": "Tam Hiệp",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00316",
+          "name": "Đại Kim",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00337",
+          "name": "Hoàng Liệt",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00640",
+          "name": "Văn Điển",
+          "pre": "Thị trấn"
+        }
+      ]
+    },
+    {
+      "vnCode": "00331",
+      "name": "Hoàng Mai",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00313",
+          "name": "Tương Mai",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00319",
+          "name": "Tân Mai",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00325",
+          "name": "Giáp Bát",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00334",
+          "name": "Trần Phú",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00322",
+          "name": "Hoàng Văn Thụ",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00328",
+          "name": "Lĩnh Nam",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00331",
+          "name": "Thịnh Liệt",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00337",
+          "name": "Hoàng Liệt",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00340",
+          "name": "Yên Sở",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00070",
+      "name": "Hoàn Kiếm",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00043",
+          "name": "Hàng Mã",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00052",
+          "name": "Hàng Bồ",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00049",
+          "name": "Hàng Đào",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00061",
+          "name": "Hàng Bạc",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00046",
+          "name": "Hàng Buồm",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00064",
+          "name": "Hàng Gai",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00058",
+          "name": "Lý Thái Tổ",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00055",
+          "name": "Cửa Đông",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00073",
+          "name": "Cửa Nam",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00019",
+          "name": "Điện Biên",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00076",
+          "name": "Hàng Bông",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00070",
+          "name": "Hàng Trống",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00079",
+          "name": "Tràng Tiền",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00040",
+          "name": "Đồng Xuân",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "10096",
+      "name": "Hòa Phú",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10102",
+          "name": "Văn Võ",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10090",
+          "name": "Thượng Vực",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10096",
+          "name": "Đồng Phú",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10105",
+          "name": "Đồng Lạc",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10108",
+          "name": "Hòa Chính",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10159",
+          "name": "Kim Thư",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "10417",
+      "name": "Hòa Xá",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10396",
+          "name": "Vạn Thái",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10417",
+          "name": "Hòa Phú",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10429",
+          "name": "Phù Lưu",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10435",
+          "name": "Lưu Hoàng",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00097",
+      "name": "Hồng Hà",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00037",
+          "name": "Phúc Tân",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00067",
+          "name": "Chương Dương",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00001",
+          "name": "Phúc Xá",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00244",
+          "name": "Bạch Đằng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00094",
+          "name": "Nhật Tân",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00100",
+          "name": "Quảng An",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00106",
+          "name": "Yên Phụ",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00139",
+          "name": "Bồ Đề",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00601",
+          "name": "Đông Ngạc",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00091",
+          "name": "Phú Thượng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00097",
+          "name": "Tứ Liên",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00118",
+          "name": "Ngọc Thụy",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "10465",
+      "name": "Hồng Sơn",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10462",
+          "name": "An Mỹ",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10465",
+          "name": "Hồng Sơn",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10498",
+          "name": "Hợp Tiến",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10468",
+          "name": "Lê Thanh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10471",
+          "name": "Xuy Xá",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10474",
+          "name": "Phùng Xá",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "10210",
+      "name": "Hồng Vân",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10213",
+          "name": "Liên Phương",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10210",
+          "name": "Vân Tảo",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10207",
+          "name": "Hồng Vân",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10225",
+          "name": "Hà Hồi",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10186",
+          "name": "Ninh Sở",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10192",
+          "name": "Duyên Thái",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00685",
+          "name": "Đông Mỹ",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "09931",
+      "name": "Hưng Đạo",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09919",
+          "name": "Đồng Quang",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09934",
+          "name": "Tân Phú",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09931",
+          "name": "Cộng Hòa",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "10489",
+      "name": "Hương Sơn",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10495",
+          "name": "An Tiến",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10492",
+          "name": "Hùng Tiến",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10483",
+          "name": "Vạn Kim",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10489",
+          "name": "Hương Sơn",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00364",
+      "name": "Khương Đình",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00346",
+          "name": "Thượng Đình",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00349",
+          "name": "Khương Trung",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00355",
+          "name": "Thanh Xuân Trung",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00373",
+          "name": "Kim Giang",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00316",
+          "name": "Đại Kim",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00364",
+          "name": "Khương Đình",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00643",
+          "name": "Tân Triều",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "09552",
+      "name": "Kiến Hưng",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "09538",
+          "name": "Nguyễn Trãi",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09565",
+          "name": "Kiến Hưng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09571",
+          "name": "Phú Lương",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09552",
+          "name": "Phú La",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09556",
+          "name": "Hà Cầu",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "09910",
+      "name": "Kiều Phú",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09943",
+          "name": "Cấn Hữu",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09928",
+          "name": "Nghĩa Hương",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09925",
+          "name": "Tuyết Nghĩa",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09907",
+          "name": "Ngọc Liệp",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10006",
+          "name": "Bình Phú",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09910",
+          "name": "Ngọc Mỹ",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00382",
+      "name": "Kim Anh",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "00382",
+          "name": "Minh Trí",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00397",
+          "name": "Minh Phú",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00415",
+          "name": "Tân Dân",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00229",
+      "name": "Kim Liên",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00229",
+          "name": "Kim Liên",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00238",
+          "name": "Khương Thượng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00208",
+          "name": "Nam Đồng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00226",
+          "name": "Trung Tự",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00217",
+          "name": "Trung Liệt",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00232",
+          "name": "Phương Mai",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00214",
+          "name": "Quang Trung",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00199",
+      "name": "Láng",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00187",
+          "name": "Láng Thượng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00199",
+          "name": "Láng Hạ",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00025",
+          "name": "Ngọc Khánh",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "09787",
+      "name": "Liên Minh",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09811",
+          "name": "Phương Đình",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09790",
+          "name": "Thọ An",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09793",
+          "name": "Thọ Xuân",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09787",
+          "name": "Trung Châu",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00328",
+      "name": "Lĩnh Nam",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00334",
+          "name": "Trần Phú",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00301",
+          "name": "Thanh Trì",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00328",
+          "name": "Lĩnh Nam",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00145",
+      "name": "Long Biên",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00583",
+          "name": "Bát Tràng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00130",
+          "name": "Gia Thụy",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00139",
+          "name": "Bồ Đề",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00148",
+          "name": "Thạch Bàn",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00151",
+          "name": "Phúc Đồng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00154",
+          "name": "Cự Khối",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00145",
+          "name": "Long Biên",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "09022",
+      "name": "Mê Linh",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09022",
+          "name": "Tráng Việt",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09019",
+          "name": "Tiền Phong",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09013",
+          "name": "Văn Khê",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09010",
+          "name": "Mê Linh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09799",
+          "name": "Liên Hồng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09802",
+          "name": "Liên Hà",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09808",
+          "name": "Liên Trung",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00499",
+          "name": "Đại Mạch",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "09661",
+      "name": "Minh Châu",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09661",
+          "name": "Minh Châu",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09667",
+          "name": "Chu Minh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09619",
+          "name": "Tây Đằng",
+          "pre": "Thị trấn"
+        }
+      ]
+    },
+    {
+      "vnCode": "10441",
+      "name": "Mỹ Đức",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10441",
+          "name": "Đại Nghĩa",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "10477",
+          "name": "Phù Lưu Tế",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10504",
+          "name": "An Phú",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10501",
+          "name": "Hợp Thanh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10480",
+          "name": "Đại Hưng",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00685",
+      "name": "Nam Phù",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "00676",
+          "name": "Vạn Phúc",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10186",
+          "name": "Ninh Sở",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10192",
+          "name": "Duyên Thái",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00661",
+          "name": "Yên Mỹ",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00667",
+          "name": "Ngũ Hiệp",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00670",
+          "name": "Duyên Hà",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00682",
+          "name": "Liên Ninh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00685",
+          "name": "Đông Mỹ",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00160",
+      "name": "Nghĩa Đô",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00160",
+          "name": "Nghĩa Tân",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00157",
+          "name": "Nghĩa Đô",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00163",
+          "name": "Mai Dịch",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00167",
+          "name": "Dịch Vọng Hậu",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00169",
+          "name": "Quan Hoa",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00616",
+          "name": "Cổ Nhuế 1",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00103",
+          "name": "Xuân La",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00166",
+          "name": "Dịch Vọng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00611",
+          "name": "Xuân Tảo",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00008",
+      "name": "Ngọc Hà",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00006",
+          "name": "Vĩnh Phúc",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00008",
+          "name": "Liễu Giai",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00028",
+          "name": "Kim Mã",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00025",
+          "name": "Ngọc Khánh",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00016",
+          "name": "Ngọc Hà",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00007",
+          "name": "Cống Vị",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00679",
+      "name": "Ngọc Hồi",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "00673",
+          "name": "Ngọc Hồi",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00022",
+          "name": "Đội Cấn",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "10192",
+          "name": "Duyên Thái",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10195",
+          "name": "Khánh Hà",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00682",
+          "name": "Liên Ninh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00679",
+          "name": "Đại áng",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00433",
+      "name": "Nội Bài",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "00412",
+          "name": "Hiền Ninh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00433",
+          "name": "Thanh Xuân",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00442",
+          "name": "Phú Cường",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00409",
+          "name": "Quang Tiến",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00427",
+          "name": "Mai Đình",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00445",
+          "name": "Phú Minh",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00190",
+      "name": "Ô Chợ Dừa",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00190",
+          "name": "Ô Chợ Dừa",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00178",
+          "name": "Cát Linh",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00019",
+          "name": "Điện Biên",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00034",
+          "name": "Thành Công",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00217",
+          "name": "Trung Liệt",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00196",
+          "name": "Hàng Bột",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00181",
+          "name": "Văn Miếu",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "09817",
+      "name": "Ô Diên",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09805",
+          "name": "Hạ Mỗ",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09817",
+          "name": "Tân Hội",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09796",
+          "name": "Hồng Hà",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09799",
+          "name": "Liên Hồng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09802",
+          "name": "Liên Hà",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09808",
+          "name": "Liên Trung",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09820",
+          "name": "Tân Lập",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00607",
+          "name": "Tây Tựu",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "09952",
+      "name": "Phú Cát",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09940",
+          "name": "Phú Mãn",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09952",
+          "name": "Đông Yên",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09949",
+          "name": "Hòa Thạch",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09922",
+          "name": "Phú Cát",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "09739",
+      "name": "Phúc Lộc",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09724",
+          "name": "Vân Nam",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09721",
+          "name": "Vân Phúc",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09727",
+          "name": "Xuân Đình",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09733",
+          "name": "Sen Phương",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09739",
+          "name": "Võng Xuyên",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00136",
+      "name": "Phúc Lợi",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00553",
+          "name": "Cổ Bi",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00121",
+          "name": "Giang Biên",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00148",
+          "name": "Thạch Bàn",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00151",
+          "name": "Phúc Đồng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00127",
+          "name": "Việt Hưng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00136",
+          "name": "Phúc Lợi",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "10459",
+      "name": "Phúc Sơn",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10447",
+          "name": "Thượng Lâm",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10453",
+          "name": "Phúc Lâm",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10450",
+          "name": "Tuy Lai",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10459",
+          "name": "Bột Xuyên",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10444",
+          "name": "Đồng Tâm",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00466",
+      "name": "Phúc Thịnh",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "00469",
+          "name": "Nam Hồng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00463",
+          "name": "Bắc Hồng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00481",
+          "name": "Vân Nội",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00457",
+          "name": "Xuân Nộn",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00472",
+          "name": "Tiên Dương",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00502",
+          "name": "Vĩnh Ngọc",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00454",
+          "name": "Đông Anh",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "00466",
+          "name": "Nguyên Khê",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "09715",
+      "name": "Phúc Thọ",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09715",
+          "name": "Phúc Thọ",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "09745",
+          "name": "Long Xuyên",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09742",
+          "name": "Thọ Lộc",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09760",
+          "name": "Trạch Mỹ Lộc",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09763",
+          "name": "Phúc Hòa",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09769",
+          "name": "Phụng Thượng",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00619",
+      "name": "Phú Diễn",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00619",
+          "name": "Phú Diễn",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00163",
+          "name": "Mai Dịch",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00616",
+          "name": "Cổ Nhuế 1",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00620",
+          "name": "Phúc Diễn",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00541",
+      "name": "Phù Đổng",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "00529",
+          "name": "Yên Thường",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00532",
+          "name": "Yên Viên",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00541",
+          "name": "Dương Hà",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00535",
+          "name": "Ninh Hiệp",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00544",
+          "name": "Phù Đổng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00526",
+          "name": "Yên Viên",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "00553",
+          "name": "Cổ Bi",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00556",
+          "name": "Đặng Xá",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "09568",
+      "name": "Phú Lương",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "09568",
+          "name": "Phú Lãm",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "10120",
+          "name": "Cự Khê",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00652",
+          "name": "Hữu Hoà",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09565",
+          "name": "Kiến Hưng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09571",
+          "name": "Phú Lương",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "10030",
+      "name": "Phú Nghĩa",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10027",
+          "name": "Đông Sơn",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10030",
+          "name": "Đông Phương Yên",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10033",
+          "name": "Phú Nghĩa",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10048",
+          "name": "Thanh Bình",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10051",
+          "name": "Trung Hòa",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10039",
+          "name": "Trường Yên",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "10279",
+      "name": "Phượng Dực",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10279",
+          "name": "Phượng Dực",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10291",
+          "name": "Đại Thắng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10303",
+          "name": "Hoàng Long",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10294",
+          "name": "Phú Túc",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10276",
+          "name": "Hồng Minh",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00352",
+      "name": "Phương Liệt",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00352",
+          "name": "Khương Mai",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00307",
+          "name": "Định Công",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00349",
+          "name": "Khương Trung",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00358",
+          "name": "Phương Liệt",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00331",
+          "name": "Thịnh Liệt",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00364",
+          "name": "Khương Đình",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00091",
+      "name": "Phú Thượng",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00610",
+          "name": "Xuân Đỉnh",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00091",
+          "name": "Phú Thượng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00103",
+          "name": "Xuân La",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00611",
+          "name": "Xuân Tảo",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "10273",
+      "name": "Phú Xuyên",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10270",
+          "name": "Phú Minh",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "10273",
+          "name": "Phú Xuyên",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "10282",
+          "name": "Nam Tiến",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10300",
+          "name": "Hồng Thái",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10318",
+          "name": "Sơn Hà",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10312",
+          "name": "Nam Triều",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10261",
+          "name": "Văn Tự",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10267",
+          "name": "Minh Cường",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10258",
+          "name": "Tô Hiệu",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10264",
+          "name": "Vạn Điểm",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "10072",
+      "name": "Quảng Bị",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10060",
+          "name": "Tốt Động",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10072",
+          "name": "Hợp Đồng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10084",
+          "name": "Quảng Bị",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10078",
+          "name": "Hoàng Diệu",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10063",
+          "name": "Lam Điền",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "08974",
+      "name": "Quang Minh",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "08973",
+          "name": "Chi Đông",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "08989",
+          "name": "Quang Minh",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "08977",
+          "name": "Kim Hoa",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "08974",
+          "name": "Đại Thịnh",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "09619",
+      "name": "Quảng Oai",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09682",
+          "name": "Tiên Phong",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09679",
+          "name": "Đông Quang",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09688",
+          "name": "Cam Thượng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09667",
+          "name": "Chu Minh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09685",
+          "name": "Thụy An",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09619",
+          "name": "Tây Đằng",
+          "pre": "Thị trấn"
+        }
+      ]
+    },
+    {
+      "vnCode": "09895",
+      "name": "Quốc Oai",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09916",
+          "name": "Thạch Thán",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09898",
+          "name": "Sài Sơn",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09904",
+          "name": "Yên Sơn",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09895",
+          "name": "Quốc Oai",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "09910",
+          "name": "Ngọc Mỹ",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00376",
+      "name": "Sóc Sơn",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "00376",
+          "name": "Sóc Sơn",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "00400",
+          "name": "Phù Linh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00406",
+          "name": "Tân Minh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00418",
+          "name": "Tiên Dược",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00436",
+          "name": "Đông Xuân",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00448",
+          "name": "Phù Lỗ",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00409",
+          "name": "Quang Tiến",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00427",
+          "name": "Mai Đình",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00445",
+          "name": "Phú Minh",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "09871",
+      "name": "Sơn Đồng",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09859",
+          "name": "Sơn Đồng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09868",
+          "name": "Lại Yên",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09871",
+          "name": "Tiền Yên",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09862",
+          "name": "Vân Canh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09874",
+          "name": "Song Phương",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09880",
+          "name": "An Thượng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09883",
+          "name": "Vân Côn",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09877",
+          "name": "An Khánh",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "09574",
+      "name": "Sơn Tây",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "09577",
+          "name": "Phú Thịnh",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09574",
+          "name": "Lê Lợi",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09595",
+          "name": "Viên Sơn",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09592",
+          "name": "Đường Lâm",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09601",
+          "name": "Trung Hưng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09586",
+          "name": "Sơn Lộc",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09604",
+          "name": "Thanh Mỹ",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "09694",
+      "name": "Suối Hai",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09694",
+          "name": "Tản Lĩnh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09697",
+          "name": "Ba Trại",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09685",
+          "name": "Thụy An",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09673",
+          "name": "Cẩm Lĩnh",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "10144",
+      "name": "Tam Hưng",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10129",
+          "name": "Mỹ Hưng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10138",
+          "name": "Tam Hưng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10144",
+          "name": "Thanh Thùy",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10150",
+          "name": "Thanh Văn",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00103",
+      "name": "Tây Hồ",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00109",
+          "name": "Bưởi",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00112",
+          "name": "Thụy Khuê",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00094",
+          "name": "Nhật Tân",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00100",
+          "name": "Quảng An",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00106",
+          "name": "Yên Phụ",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00091",
+          "name": "Phú Thượng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00097",
+          "name": "Tứ Liên",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00103",
+          "name": "Xuân La",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00634",
+      "name": "Tây Mỗ",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00628",
+          "name": "Tây Mỗ",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00634",
+          "name": "Đại Mỗ",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09877",
+          "name": "An Khánh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09886",
+          "name": "Dương Nội",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "10003",
+      "name": "Tây Phương",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10003",
+          "name": "Thạch Xá",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09997",
+          "name": "Phùng Xá",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09970",
+          "name": "Hương Ngải",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09973",
+          "name": "Canh Nậu",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09904",
+          "name": "Yên Sơn",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09907",
+          "name": "Ngọc Liệp",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10006",
+          "name": "Bình Phú",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09895",
+          "name": "Quốc Oai",
+          "pre": "Thị trấn"
+        }
+      ]
+    },
+    {
+      "vnCode": "00613",
+      "name": "Tây Tựu",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "09853",
+          "name": "Kim Chung",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00607",
+          "name": "Tây Tựu",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00613",
+          "name": "Minh Khai",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "09955",
+      "name": "Thạch Thất",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09955",
+          "name": "Liên Quan",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "09961",
+          "name": "Cẩm Yên",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09958",
+          "name": "Đại Đồng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09964",
+          "name": "Lại Thượng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09967",
+          "name": "Phú Kim",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09976",
+          "name": "Kim Quan",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00643",
+      "name": "Thanh Liệt",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00646",
+          "name": "Thanh Liệt",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00649",
+          "name": "Tả Thanh Oai",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00373",
+          "name": "Kim Giang",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09542",
+          "name": "Văn Quán",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00316",
+          "name": "Đại Kim",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00367",
+          "name": "Thanh Xuân Bắc",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00643",
+          "name": "Tân Triều",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "10114",
+      "name": "Thanh Oai",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10147",
+          "name": "Thanh Mai",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10156",
+          "name": "Kim An",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10153",
+          "name": "Đỗ Động",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10162",
+          "name": "Phương Trung",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10114",
+          "name": "Kim Bài",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "10159",
+          "name": "Kim Thư",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00640",
+      "name": "Thanh Trì",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "00658",
+          "name": "Tứ Hiệp",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00661",
+          "name": "Yên Mỹ",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00667",
+          "name": "Ngũ Hiệp",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00670",
+          "name": "Duyên Hà",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00340",
+          "name": "Yên Sở",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00640",
+          "name": "Văn Điển",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "00664",
+          "name": "Vĩnh Quỳnh",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00367",
+      "name": "Thanh Xuân",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00343",
+          "name": "Nhân Chính",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00346",
+          "name": "Thượng Đình",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00355",
+          "name": "Thanh Xuân Trung",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00175",
+          "name": "Trung Hoà",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00367",
+          "name": "Thanh Xuân Bắc",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00637",
+          "name": "Trung Văn",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00493",
+      "name": "Thiên Lộc",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "00514",
+          "name": "Võng La",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00490",
+          "name": "Kim Nỗ",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00499",
+          "name": "Đại Mạch",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00493",
+          "name": "Kim Chung",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00508",
+          "name": "Hải Bối",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00562",
+      "name": "Thuận An",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "00568",
+          "name": "Dương Quang",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00550",
+          "name": "Lệ Chi",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00556",
+          "name": "Đặng Xá",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00562",
+          "name": "Kim Sơn",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00475",
+      "name": "Thư Lâm",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "00460",
+          "name": "Thuỵ Lâm",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00475",
+          "name": "Vân Hà",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00457",
+          "name": "Xuân Nộn",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00478",
+          "name": "Uy Nỗ",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00484",
+          "name": "Liên Hà",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00487",
+          "name": "Việt Hùng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00496",
+          "name": "Dục Tú",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00454",
+          "name": "Đông Anh",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "00466",
+          "name": "Nguyên Khê",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00598",
+      "name": "Thượng Cát",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00595",
+          "name": "Thượng Cát",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00598",
+          "name": "Liên Mạc",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00604",
+          "name": "Thụy Phương",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00607",
+          "name": "Tây Tựu",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00617",
+          "name": "Cổ Nhuế 2",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00613",
+          "name": "Minh Khai",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "10231",
+      "name": "Thượng Phúc",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10240",
+          "name": "Tân Minh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10231",
+          "name": "Nguyễn Trãi",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10234",
+          "name": "Quất Động",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10255",
+          "name": "Nghiêm Xuyên",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10249",
+          "name": "Dũng Tiến",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "10183",
+      "name": "Thường Tín",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10183",
+          "name": "Thường Tín",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "10222",
+          "name": "Tiền Phong",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10201",
+          "name": "Văn Bình",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10189",
+          "name": "Nhị Khê",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10198",
+          "name": "Hòa Bình",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10216",
+          "name": "Văn Phú",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10204",
+          "name": "Hiền Giang",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10195",
+          "name": "Khánh Hà",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00679",
+          "name": "Đại áng",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "08995",
+      "name": "Tiến Thắng",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "08986",
+          "name": "Tự Lập",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "08983",
+          "name": "Tiến Thắng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "08995",
+          "name": "Tam Đồng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "08992",
+          "name": "Thanh Lâm",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "10081",
+      "name": "Trần Phú",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10075",
+          "name": "Hoàng Văn Thụ",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10081",
+          "name": "Hữu Văn",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10087",
+          "name": "Mỹ Lương",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10099",
+          "name": "Trần Phú",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10066",
+          "name": "Tân Tiến",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10444",
+          "name": "Đồng Tâm",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00385",
+      "name": "Trung Giã",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "00379",
+          "name": "Bắc Sơn",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00388",
+          "name": "Nam Sơn",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00385",
+          "name": "Hồng Kỳ",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00391",
+          "name": "Trung Giã",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00592",
+      "name": "Từ Liêm",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00592",
+          "name": "Cầu Diễn",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00163",
+          "name": "Mai Dịch",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00625",
+          "name": "Mỹ Đình 1",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00626",
+          "name": "Mỹ Đình 2",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00631",
+          "name": "Mễ Trì",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00632",
+          "name": "Phú Đô",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "09604",
+      "name": "Tùng Thiện",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "09589",
+          "name": "Xuân Khanh",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09607",
+          "name": "Trung Sơn Trầm",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09598",
+          "name": "Xuân Sơn",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09604",
+          "name": "Thanh Mỹ",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00322",
+      "name": "Tương Mai",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00280",
+          "name": "Đồng Tâm",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00295",
+          "name": "Minh Khai",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00313",
+          "name": "Tương Mai",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00319",
+          "name": "Tân Mai",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00325",
+          "name": "Giáp Bát",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00358",
+          "name": "Phương Liệt",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00322",
+          "name": "Hoàng Văn Thụ",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "10402",
+      "name": "Ứng Hòa",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10387",
+          "name": "Trung Tú",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10390",
+          "name": "Đồng Tân",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10399",
+          "name": "Minh Đức",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10411",
+          "name": "Kim Đường",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10426",
+          "name": "Đông Lỗ",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10432",
+          "name": "Đại Cường",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10423",
+          "name": "Đại Hùng",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10402",
+          "name": "Hòa Lâm",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "10369",
+      "name": "Ứng Thiên",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10363",
+          "name": "Hoa Sơn",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10366",
+          "name": "Quảng Phú Cầu",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10369",
+          "name": "Trường Thịnh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10375",
+          "name": "Liên Bạt",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "10354",
+      "name": "Vân Đình",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10354",
+          "name": "Vân Đình",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "10378",
+          "name": "Sơn Công",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10384",
+          "name": "Phương Tú",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10393",
+          "name": "Tảo Dương Văn",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00226",
+      "name": "Văn Miếu - Quốc Tử Giám",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00202",
+          "name": "Khâm Thiên",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00193",
+          "name": "Văn Chương",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00205",
+          "name": "Thổ Quan",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00019",
+          "name": "Điện Biên",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00196",
+          "name": "Hàng Bột",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00181",
+          "name": "Văn Miếu",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00073",
+          "name": "Cửa Nam",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00256",
+          "name": "Lê Đại Hành",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00208",
+          "name": "Nam Đồng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00241",
+          "name": "Nguyễn Du",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00226",
+          "name": "Trung Tự",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "09664",
+      "name": "Vật Lại",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09652",
+          "name": "Thái Hòa",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09658",
+          "name": "Phú Sơn",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09664",
+          "name": "Vật Lại",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09655",
+          "name": "Đồng Thái",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09649",
+          "name": "Phú Châu",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00127",
+      "name": "Việt Hưng",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00115",
+          "name": "Thượng Thanh",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00121",
+          "name": "Giang Biên",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00124",
+          "name": "Đức Giang",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00130",
+          "name": "Gia Thụy",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00151",
+          "name": "Phúc Đồng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00127",
+          "name": "Việt Hưng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00136",
+          "name": "Phúc Lợi",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00301",
+      "name": "Vĩnh Hưng",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00304",
+          "name": "Vĩnh Hưng",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00301",
+          "name": "Thanh Trì",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00328",
+          "name": "Lĩnh Nam",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00508",
+      "name": "Vĩnh Thanh",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "00490",
+          "name": "Kim Nỗ",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00502",
+          "name": "Vĩnh Ngọc",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00511",
+          "name": "Xuân Canh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00517",
+          "name": "Tàm Xá",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00493",
+          "name": "Kim Chung",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00508",
+          "name": "Hải Bối",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00283",
+      "name": "Vĩnh Tuy",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00310",
+          "name": "Mai Động",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00268",
+          "name": "Thanh Lương",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00283",
+          "name": "Vĩnh Tuy",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00611",
+      "name": "Xuân Đỉnh",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00610",
+          "name": "Xuân Đỉnh",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00616",
+          "name": "Cổ Nhuế 1",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00103",
+          "name": "Xuân La",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00611",
+          "name": "Xuân Tảo",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "10045",
+      "name": "Xuân Mai",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "10018",
+          "name": "Xuân Mai",
+          "pre": "Thị trấn"
+        },
+        {
+          "vnCode": "10045",
+          "name": "Thủy Xuân Tiên",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10069",
+          "name": "Nam Phương Tiến",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "10066",
+          "name": "Tân Tiến",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00622",
+      "name": "Xuân Phương",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00623",
+          "name": "Phương Canh",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00622",
+          "name": "Xuân Phương",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09862",
+          "name": "Vân Canh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00628",
+          "name": "Tây Mỗ",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00620",
+          "name": "Phúc Diễn",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00613",
+          "name": "Minh Khai",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00634",
+          "name": "Đại Mỗ",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "09706",
+      "name": "Yên Bài",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "09706",
+          "name": "Vân Hòa",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09709",
+          "name": "Yên Bài",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09988",
+          "name": "Thạch Hoà",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "00175",
+      "name": "Yên Hòa",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00172",
+          "name": "Yên Hoà",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00343",
+          "name": "Nhân Chính",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00631",
+          "name": "Mễ Trì",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00175",
+          "name": "Trung Hoà",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "08980",
+      "name": "Yên Lãng",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "08998",
+          "name": "Liên Mạc",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09016",
+          "name": "Hoàng Kim",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09004",
+          "name": "Chu Phan",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09007",
+          "name": "Tiến Thịnh",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "08980",
+          "name": "Thạch Đà",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09790",
+          "name": "Thọ An",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09793",
+          "name": "Thọ Xuân",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09787",
+          "name": "Trung Châu",
+          "pre": "Xã"
+        }
+      ]
+    },
+    {
+      "vnCode": "09562",
+      "name": "Yên Nghĩa",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "10117",
+          "name": "Đồng Mai",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "09562",
+          "name": "Yên Nghĩa",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "00340",
+      "name": "Yên Sở",
+      "pre": "Phường",
+      "legacy": [
+        {
+          "vnCode": "00658",
+          "name": "Tứ Hiệp",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "00334",
+          "name": "Trần Phú",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00331",
+          "name": "Thịnh Liệt",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00337",
+          "name": "Hoàng Liệt",
+          "pre": "Phường"
+        },
+        {
+          "vnCode": "00340",
+          "name": "Yên Sở",
+          "pre": "Phường"
+        }
+      ]
+    },
+    {
+      "vnCode": "04930",
+      "name": "Yên Xuân",
+      "pre": "Xã",
+      "legacy": [
+        {
+          "vnCode": "04939",
+          "name": "Đông Xuân",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "04927",
+          "name": "Yên Trung",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "04930",
+          "name": "Yên Bình",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "04936",
+          "name": "Tiến Xuân",
+          "pre": "Xã"
+        },
+        {
+          "vnCode": "09988",
+          "name": "Thạch Hoà",
+          "pre": "Xã"
+        }
+      ]
+    }
+  ]
+}
