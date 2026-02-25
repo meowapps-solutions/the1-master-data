@@ -1,138 +1,138 @@
 {
   "An Giang": {
     "code": "AG",
-    "file_path": "./provinces_v2/AG.json"
+    "file_path": "./provinces/AG.json"
   },
   "Bắc Ninh": {
     "code": "BN",
-    "file_path": "./provinces_v2/BN.json"
+    "file_path": "./provinces/BN.json"
   },
   "Cà Mau": {
     "code": "CM",
-    "file_path": "./provinces_v2/CM.json"
+    "file_path": "./provinces/CM.json"
   },
   "Cao Bằng": {
     "code": "CB",
-    "file_path": "./provinces_v2/CB.json"
+    "file_path": "./provinces/CB.json"
   },
   "Cần Thơ": {
     "code": "CT",
-    "file_path": "./provinces_v2/CT.json"
+    "file_path": "./provinces/CT.json"
   },
   "Đà Nẵng": {
     "code": "DDN",
-    "file_path": "./provinces_v2/DDN.json"
+    "file_path": "./provinces/DDN.json"
   },
   "Đắk Lắk": {
     "code": "DDL",
-    "file_path": "./provinces_v2/DDL.json"
+    "file_path": "./provinces/DDL.json"
   },
   "Điện Biên": {
     "code": "DDB",
-    "file_path": "./provinces_v2/DDB.json"
+    "file_path": "./provinces/DDB.json"
   },
   "Đồng Nai": {
     "code": "DNA",
-    "file_path": "./provinces_v2/DNA.json"
+    "file_path": "./provinces/DNA.json"
   },
   "Đồng Tháp": {
     "code": "DDT",
-    "file_path": "./provinces_v2/DDT.json"
+    "file_path": "./provinces/DDT.json"
   },
   "Gia Lai": {
     "code": "GL",
-    "file_path": "./provinces_v2/GL.json"
+    "file_path": "./provinces/GL.json"
   },
   "Hà Nội": {
     "code": "HN",
-    "file_path": "./provinces_v2/HN.json"
+    "file_path": "./provinces/HN.json"
   },
   "Hà Tĩnh": {
     "code": "HT",
-    "file_path": "./provinces_v2/HT.json"
+    "file_path": "./provinces/HT.json"
   },
   "Hải Phòng": {
     "code": "HP",
-    "file_path": "./provinces_v2/HP.json"
+    "file_path": "./provinces/HP.json"
   },
   "Hồ Chí Minh": {
     "code": "HCM",
-    "file_path": "./provinces_v2/HCM.json"
+    "file_path": "./provinces/HCM.json"
   },
   "Huế": {
     "code": "HUE",
-    "file_path": "./provinces_v2/HUE.json"
+    "file_path": "./provinces/HUE.json"
   },
   "Hưng Yên": {
     "code": "HY",
-    "file_path": "./provinces_v2/HY.json"
+    "file_path": "./provinces/HY.json"
   },
   "Khánh Hòa": {
     "code": "KH",
-    "file_path": "./provinces_v2/KH.json"
+    "file_path": "./provinces/KH.json"
   },
   "Lai Châu": {
     "code": "LCH",
-    "file_path": "./provinces_v2/LCH.json"
+    "file_path": "./provinces/LCH.json"
   },
   "Lạng Sơn": {
     "code": "LS",
-    "file_path": "./provinces_v2/LS.json"
+    "file_path": "./provinces/LS.json"
   },
   "Lào Cai": {
     "code": "LCA",
-    "file_path": "./provinces_v2/LCA.json"
+    "file_path": "./provinces/LCA.json"
   },
   "Lâm Đồng": {
     "code": "LDD",
-    "file_path": "./provinces_v2/LDD.json"
+    "file_path": "./provinces/LDD.json"
   },
   "Nghệ An": {
     "code": "NA",
-    "file_path": "./provinces_v2/NA.json"
+    "file_path": "./provinces/NA.json"
   },
   "Ninh Bình": {
     "code": "NB",
-    "file_path": "./provinces_v2/NB.json"
+    "file_path": "./provinces/NB.json"
   },
   "Phú Thọ": {
     "code": "PT",
-    "file_path": "./provinces_v2/PT.json"
+    "file_path": "./provinces/PT.json"
   },
   "Quảng Ngãi": {
     "code": "QNG",
-    "file_path": "./provinces_v2/QNG.json"
+    "file_path": "./provinces/QNG.json"
   },
   "Quảng Ninh": {
     "code": "QNI",
-    "file_path": "./provinces_v2/QNI.json"
+    "file_path": "./provinces/QNI.json"
   },
   "Quảng Trị": {
     "code": "QT",
-    "file_path": "./provinces_v2/QT.json"
+    "file_path": "./provinces/QT.json"
   },
   "Sơn La": {
     "code": "SL",
-    "file_path": "./provinces_v2/SL.json"
+    "file_path": "./provinces/SL.json"
   },
   "Tây Ninh": {
     "code": "TNI",
-    "file_path": "./provinces_v2/TNI.json"
+    "file_path": "./provinces/TNI.json"
   },
   "Thái Nguyên": {
     "code": "TN",
-    "file_path": "./provinces_v2/TN.json"
+    "file_path": "./provinces/TN.json"
   },
   "Thanh Hóa": {
     "code": "TH",
-    "file_path": "./provinces_v2/TH.json"
+    "file_path": "./provinces/TH.json"
   },
   "Tuyên Quang": {
     "code": "TQ",
-    "file_path": "./provinces_v2/TQ.json"
+    "file_path": "./provinces/TQ.json"
   },
   "Vĩnh Long": {
     "code": "VL",
-    "file_path": "./provinces_v2/VL.json"
+    "file_path": "./provinces/VL.json"
   }
 }
